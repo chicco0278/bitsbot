@@ -1,6 +1,6 @@
 # BitsBot
 
-BitsBot is a node.js app that continuosly fetches crypto prices on exchanges looking for arbitrage opportunities, trying to guarantee that the trade is possible before even attempting to execute it.
+BitsBot is a node.js app with solidity smart contracts that continuosly fetches crypto prices on exchanges looking for arbitrage opportunities, trying to guarantee that the trade is possible before even attempting to execute it.
 
 ## Project Structure
 
